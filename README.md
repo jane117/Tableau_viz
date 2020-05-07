@@ -1,2 +1,2 @@
-# tableau_viz
+# Tableau_viz
 https://public.tableau.com/profile/jane.c3551#!/
